@@ -1,0 +1,24 @@
+Payload to Target All Students under a course and program plan
+[
+
+{
+        "keys": {
+            "UniqueId": "{{$guid}}"
+        },
+        "values": {
+             "target": "All",
+             "courseOfferingName": "Business Economics",
+             "assignmentTitle": "Business Economics Discussion",
+             "assignmentLink": "www.google.com",
+             "courseOfferingId": "a0B9D000006MGXYUA4",
+             "termId":"a0P9D000001ShN5UAK",
+             "assignmentId":"lc33",
+             "programPlanId":"a0K9D000006JZ87UAG",
+             "startDate": "04-18-2022",
+             "endDate": "04-21-2022",
+             "action": "Edited",
+             "attempted":"False"
+
+        }
+}
+]
